@@ -8,9 +8,7 @@ log.txt
 *.sublime-workspace
 .vscode/
 npm-debug.log*
-
-urls.txt
-
+Abdo/
 .idea/
 .ionic/
 .sourcemaps/
